@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebmasterATIQ
+- 👋 Hi, I’m @MusafirATIQ
 - 👀 I’m interested in HTML, CSS, JavaScript, Bootstrap, WordPress, BlogSpot, PHP, Web Design and Development, Blogging, Digital Marketing.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, PHP.
 - 💞️ I’m looking to collaborate on ...
